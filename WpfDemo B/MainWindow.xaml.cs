@@ -18,6 +18,8 @@ namespace WpfDemo_B
     {
         public MainWindow()
         {
+
+            // Este es un comentario
             InitializeComponent();
         }
     }
